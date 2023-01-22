@@ -1,3 +1,16 @@
 # ICSvertase
-Files related to the ICSvertase honeypot design and classification framework, which is presented in the to-be published paper "ICSvertase: A Framework for Purpose-based Design and Classification of ICS Honeypots".
-Note that in "feature requirements.xlsx" "all" and "others" only relate to the activities applicable to the technique, not all activities.
+
+This page contains the files related to the ICSvertase honeypot design and classification framework. This framework is presented in the submitted paper "ICSvertase: A Framework for Purpose-based Design and Classification of ICS Honeypots". 
+
+
+# Files
+
+
+## Engage adjusted for ICS.xlsx
+ This excel file contains the mapping of ATT&CK for ICS techniques to Engage activities following the same methodology as MITRE's ATT&CK techniques to Engage activities mapping.
+
+
+## Feature requirements.xlsx
+
+This sheet contains the minimum feature requirements mapping as described in the paper.
+Note that in this sheet "all" and "others" relate to the activities applicable to a certain technique, not all activities.
