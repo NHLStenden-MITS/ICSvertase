@@ -40,6 +40,7 @@ def main():
                 
                     if (activities_set & file_set):
                         print(f"{technique_ID} : {key}")
+        
         print("\n")
         
 if __name__ == "__main__":
