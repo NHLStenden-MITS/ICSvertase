@@ -1,0 +1,3824 @@
+[
+    {
+        "Technique_Name": "Activate Firmware Update Mode",
+        "Technique_ID": "T0800",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                "API Monitoring",
+                "Introduced Vulnerabilities",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                "Hardware Manipulation",
+                "Malware Detonation"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Security Controls"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "API Monitoring",
+                "Introduced Vulnerabilities"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Adversary-in-the-middle",
+        "Technique_ID": "T0830",
+        "Features": {
+            "single": [
+                null
+            ],
+            "multiple": [
+                "All"
+            ],
+            "Protocols": [
+                "Attack Vector Migration",
+                "Information Manipulation",
+                "Isolation",
+                "Network Analysis",
+                "Network Monitoring",
+                "Pocket Litter",
+                "Security Controls"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis",
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Alarm Suppression",
+        "Technique_ID": "T0878",
+        "Features": {
+            "single": [
+                "Others"
+            ],
+            "multiple": [
+                "Network Diversity"
+            ],
+            "Protocols": [
+                "Network Diversity",
+                "Network Monitoring ",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "API Monitoring",
+                "Baseline",
+                "Introduced Vulnerabilities",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                "Malware Detonation"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Automated Collection",
+        "Technique_ID": "T0802",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Information Manipulation",
+                "Isolation",
+                "Lures",
+                "Network Analysis",
+                "Network Manipulation",
+                "Network Monitoring",
+                "Pocket Litter"
+            ],
+            "Runtime": [
+                "Burn-In"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Block Command Message",
+        "Technique_ID": "T0803",
+        "Features": {
+            "single": [
+                "Baseline",
+                "Introduced Vulnerabilities",
+                "Malware Detonation",
+                "Peripheral Management",
+                "System Activity Monitoring"
+            ],
+            "multiple": [
+                "API Monitoring",
+                "Attack Vector Migration",
+                "Network Analysis",
+                "Network Diversity",
+                "Network Montoring"
+            ],
+            "Protocols": [
+                "Network Diversity",
+                "Network Monitoring",
+                "Network Analysis"
+            ],
+            "Runtime": [
+                "API Monitoring",
+                "Attack Vector Migration",
+                "Baseline",
+                "Introduced Vulnerabilities",
+                "Peripheral Management",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                "Malware Detonation"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Network Diversity",
+                "Peripheral Management"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis",
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Block Reporting Message",
+        "Technique_ID": "T0804",
+        "Features": {
+            "single": [
+                "Baseline",
+                "Introduced Vulnerabilities",
+                "Malware Detonation",
+                "Peripheral Management",
+                "System Activity Monitoring"
+            ],
+            "multiple": [
+                "API Monitoring",
+                "Attack Vector Migration",
+                "Network Analysis",
+                "Network Diversity",
+                "Network Montoring"
+            ],
+            "Protocols": [
+                "Network Diversity",
+                "Network Monitoring",
+                "Network Analysis"
+            ],
+            "Runtime": [
+                "API Monitoring",
+                "Attack Vector Migration",
+                "Baseline",
+                "Introduced Vulnerabilities",
+                "Peripheral Management",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                "Malware Detonation"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Network Diversity",
+                "Peripheral Management"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis",
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Block Serial COM",
+        "Technique_ID": "T0805",
+        "Features": {
+            "single": [
+                "API Monitoring",
+                "Baseline",
+                "Introduced Vulnerabilities",
+                "Malware Detonation",
+                "Peripheral Management",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "multiple": [
+                "Attack Vector Migration",
+                "Network Analysis",
+                "Network Diversity",
+                "Network Monitoring"
+            ],
+            "Protocols": [
+                "Attack Vector Migration",
+                "Network Analysis",
+                "Network Monitoring",
+                "Pocket Litter",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "Introduced Vulnerabilities",
+                "Network Diversity",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                "Malware Detonation"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "API Monitoring",
+                "Baseline",
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Network Diversity",
+                "Peripheral Management"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis",
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Brute Force I/O",
+        "Technique_ID": "T0806",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Lures",
+                "Network Analysis",
+                "Network Monitoring",
+                "Pocket Litter",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "Baseline",
+                "Software Manipulation",
+                "System Activity Monitoring",
+                "Information Manipulation"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Peripheral Management",
+                "Pocket Litter",
+                "Information Manipulation"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis",
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Change Operating Mode",
+        "Technique_ID": "T0858",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Information Manipulation"
+            ],
+            "Runtime": [
+                "Introduced Vulnerabilities",
+                "Isolation",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                "Malware Detonation"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Hardware Manipulation",
+                "Security Controls"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Command-line interface",
+        "Technique_ID": "T0807",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "Attack Vector Migration",
+                "Information Manipulation",
+                "Isolation",
+                "Personas",
+                "Security Controls"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "Application Diversity",
+                "Artifact Diversity",
+                "Baseline",
+                "Burn-In",
+                "Introduced Vulnerabilities",
+                "Malware Detonation",
+                "Pocket Litter",
+                "Lures",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "System Activity Monitoring",
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation",
+                "System Activity Monitoring",
+                "Introduced Vulnerabilities"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Commonly Used Port",
+        "Technique_ID": "T0885",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "Security Controls"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "Network Analysis",
+                "Network Manipulation",
+                "Network Monitoring",
+                "Lures",
+                "System Activity Monitoring"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                "System Activity Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Monitoring",
+                "Network Analysis"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Connection Proxy",
+        "Technique_ID": "T0884",
+        "Features": {
+            "single": [
+                null
+            ],
+            "multiple": [
+                "All"
+            ],
+            "Protocols": [
+                "Security Controls",
+                "Information Manipulation"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "Others"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "System Activity Monitoring",
+                "Isolation",
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis",
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Data Destruction",
+        "Technique_ID": "T0809",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Information Manipulation",
+                "Lures",
+                "Pocket Litter",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "Baseline",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                "Malware Detonation"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Data from Information Repositories",
+        "Technique_ID": "T0811",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "All"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Default Credentials",
+        "Technique_ID": "T0812",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "All"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Denial of Service",
+        "Technique_ID": "T0814",
+        "Features": {
+            "single": [
+                "Others"
+            ],
+            "multiple": [
+                "Network Diversity"
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Artifact Diversity",
+                "Lures",
+                "Network Analysis",
+                "Network Diversity",
+                "Network Manipulation",
+                "Network Monitoring",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "Application Diversity",
+                "Baseline",
+                "Introduced Vulnerabilities",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                "Malware Detonation"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Monitoring",
+                "Network Analysis"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Detect Operating Mode",
+        "Technique_ID": "T0868",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Information Manipulation",
+                "Lures"
+            ],
+            "Runtime": [
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Hardware Manipulation",
+                "Security Controls"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Device Restart/Shutdown",
+        "Technique_ID": "T0816",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring"
+            ],
+            "Runtime": [
+                "Introduced Vulnerabilities",
+                "Security Controls",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                "Malware Detonation"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Drive-by Compromise",
+        "Technique_ID": "T0817",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                "Lures",
+                "Malware Detonation",
+                "System Activity Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Execution through API",
+        "Technique_ID": "T0871",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Attack Vector Migration",
+                "Information Manipulation",
+                "Isolation",
+                "Lures",
+                "Network Analysis",
+                "Network Monitoring"
+            ],
+            "Runtime": [
+                "Baseline",
+                "Introduced Vulnerabilities",
+                "Security Controls",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Hardware Manipulation",
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Exploit Public-Facing Application",
+        "Technique_ID": "T0819",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "Attack Vector Migration",
+                "Information Manipulation",
+                "Isolation",
+                "Network Analysis",
+                "Network Monitoring",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "API Monitoring",
+                "Artifact Diversity",
+                "Application Diversity",
+                "Baseline",
+                "Introduced Vulnerabilities",
+                "Lures",
+                "Pocket Litter",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis",
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Exploitation for Evasion",
+        "Technique_ID": "T0820",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation",
+                "System Activity Monitoring",
+                "API Monitoring",
+                "Attack Vector Migration"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Exploitation for Privilege Escalation",
+        "Technique_ID": "T0890",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation",
+                "System Activity Monitoring",
+                "API Monitoring",
+                "Attack Vector Migration"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Exploitation of Remote Services",
+        "Technique_ID": "T0866",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                "All"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis",
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "External Remote Services",
+        "Technique_ID": "T0822",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Attack Vector Migration",
+                "Isolation",
+                "Lures",
+                "Network Analysis",
+                "Network Monitoring",
+                "Personas",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Graphical User Interface",
+        "Technique_ID": "T0823",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "Attack Vector Migration",
+                "Isolation",
+                "Lures",
+                "Network Monitoring"
+            ],
+            "Runtime": [
+                "API Monitoring",
+                "Artifact Diversity",
+                "Baseline",
+                "Burn-In",
+                "Information Manipulation",
+                "Pocket Litter",
+                "Security Controls",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                "Application Diversity"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Hardware Manipulation",
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                "System Activity Monitoring"
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Hardcoded Credentials",
+        "Technique_ID": "T0891",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "Information Manipulation",
+                "Personas",
+                "Introduced Vulnerabilities"
+            ],
+            "Runtime": [
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Hooking",
+        "Technique_ID": "T0874",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation",
+                "System Activity Monitoring",
+                "API Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "I/O Image",
+        "Technique_ID": "T0877",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Network Analysis"
+            ],
+            "Runtime": [
+                "API Monitoring",
+                "Information Manipulation",
+                "Software Manipulation",
+                "System Activity Monitoring",
+                "Pocket Litter",
+                "Burn-In"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Pocket Litter",
+                "Burn-In",
+                "Information Manipulation"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Indicator Removal on Host",
+        "Technique_ID": "T0872",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "System Activity Monitoring",
+                "API Monitoring"
+            ],
+            "processes": [
+                "System Activity Monitoring",
+                "API Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Internet Accessible Device",
+        "Technique_ID": "T0883",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "Information Manipulation",
+                "Network Manipulation",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "API Monitoring",
+                "Artifact Diversity",
+                "Baseline",
+                "Burn-In",
+                "Lures",
+                "Pocket Litter",
+                "Network Monitoring",
+                "Network Analysis",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                "Application Diversity",
+                "Malware Detonation"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Monitoring",
+                "Network Analysis"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Lateral Tool Transfer",
+        "Technique_ID": "T0867",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Attack Vector Migration",
+                "Isolation",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "Introduced Vulnerabilities",
+                "Network Analysis",
+                "Network Monitoring",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Introduced Vulnerabilities",
+                "System Activity Monitoring"
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Monitoring",
+                "Network Analysis"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Manipulate I/O Image",
+        "Technique_ID": "T0835",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "Artifact Diversity",
+                "Information Manipulation"
+            ],
+            "Runtime": [
+                "API Monitoring",
+                "Pocket Litter",
+                "Baseline",
+                "Burn-In",
+                "Introduced Vulnerabilities",
+                "Lures",
+                "Software Manipulation"
+            ],
+            "OS": [
+                "Malware Detonation",
+                "System Activity Monitoring"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Peripheral Management",
+                "Hardware Manipulation"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Peripheral Management",
+                "Pocket Litter",
+                "Burn-In",
+                "Malware Detonation",
+                "Information Manipulation"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation",
+                "System Activity Monitoring"
+            ],
+            "processes": [
+                "Malware Detonation",
+                "System Activity Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Masquerading",
+        "Technique_ID": "T0849",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "System Activity Monitoring"
+            ],
+            "processes": [
+                "API Monitoring",
+                "System Activity Monitoring",
+                "Lures"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Modify Alarm Settings",
+        "Technique_ID": "T0838",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring"
+            ],
+            "Runtime": [
+                "Baseline",
+                "Information Manipulation",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Hardware Manipulation",
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Information Manipulation",
+                "Peripheral Management"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Modify Controller Tasking",
+        "Technique_ID": "T0838",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "Information Manipulation"
+            ],
+            "Runtime": [
+                "API Monitoring",
+                "Baseline",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Hardware Manipulation",
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Modify Parameter",
+        "Technique_ID": "T0836",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "",
+                "API Monitoring"
+            ],
+            "Runtime": [
+                "Baseline",
+                "Information Manipulation",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Hardware Manipulation",
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Information Manipulation",
+                "Peripheral Management"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Modify Program",
+        "Technique_ID": "T0889",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "",
+                "API Monitoring"
+            ],
+            "Runtime": [
+                "Baseline",
+                "Information Manipulation",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Hardware Manipulation",
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Information Manipulation",
+                "Peripheral Management"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "System Activity Monitoring"
+            ],
+            "processes": [
+                "System Activity Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Module Firmware",
+        "Technique_ID": "T0839",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring"
+            ],
+            "Runtime": [
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                "Attack Vector Migration",
+                "Baseline",
+                "Malware Detonation",
+                "Information Manipulation",
+                "Isolation"
+            ],
+            "System": [
+                "Hardware Manipulation",
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation",
+                "System Activity Monitoring"
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Monitor Process State",
+        "Technique_ID": "T0801",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Network Monitoring"
+            ],
+            "Runtime": [
+                "Information Manipulation",
+                "Burn-In",
+                "Lures",
+                "Pocket Litter",
+                "Software Manipulation"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Information Manipulation",
+                "Peripheral Management"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Native API",
+        "Technique_ID": "T0834",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                "API Monitoring",
+                "Introduced Vulnerabilities",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Network Connection Enumeration",
+        "Technique_ID": "T0840",
+        "Features": {
+            "single": [
+                "Lures",
+                "Artifact Diversity"
+            ],
+            "multiple": [
+                "Application Diversity",
+                "Information Manipulation",
+                "Network Analysis",
+                "Network Diversity",
+                "Network Manipulation",
+                "Network Monitoring",
+                "Pocket Litter",
+                "Security Controls"
+            ],
+            "Protocols": [
+                "Application Diversity",
+                "Information Manipulation",
+                "Network Analysis",
+                "Network Diversity",
+                "Network Manipulation",
+                "Network Monitoring",
+                "Pocket Litter",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "Lures"
+            ],
+            "OS": [
+                "Artifact Diversity"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis\u00a0",
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Network Sniffing",
+        "Technique_ID": "T0842",
+        "Features": {
+            "single": [
+                "Others"
+            ],
+            "multiple": [
+                "Attack Vector Migration"
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation",
+                "API Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Point & Tag Identification",
+        "Technique_ID": "T0861",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Burn-In",
+                "Lures",
+                "Network Manipulation",
+                "Network Monitoring",
+                "Pocket Litter"
+            ],
+            "Runtime": [
+                "Information Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Information Manipulation",
+                "Peripheral Management"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Program Download",
+        "Technique_ID": "T0843",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Attack Vector Migration",
+                "Information Manipulation",
+                "Isolation",
+                "Network Analysis"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "Baseline",
+                "Malware Detonation",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Hardware Manipulation",
+                "Peripheral Management",
+                "Security Controls"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Program Upload",
+        "Technique_ID": "T0845",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "Others"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Project File Infection",
+        "Technique_ID": "T0873",
+        "Features": {
+            "single": [
+                "Application Diversity",
+                "Artifact Diversity",
+                "Baseline",
+                "Burn-In",
+                "Isolation",
+                "Malware Detonation",
+                "Pocket Litter",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "multiple": [
+                "Attack Vector Migration",
+                "Lures",
+                "Security Controls"
+            ],
+            "Protocols": [
+                "Security Controls"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "Others"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "System Activity Monitoring",
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Remote Services",
+        "Technique_ID": "T0886",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Attack Vector Migration",
+                "Isolation",
+                "Lures",
+                "Network Analysis",
+                "Network Monitoring",
+                "Personas",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Remote System Discovery",
+        "Technique_ID": "T0846",
+        "Features": {
+            "single": [
+                "API Monitoring",
+                "Information Manipulation",
+                "Pocket Litter",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "multiple": [
+                "Lures",
+                "Network Analysis",
+                "Security Controls"
+            ],
+            "Protocols": [
+                "Lures",
+                "Network Analysis",
+                "Security Controls"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "API Monitoring",
+                "Information Manipulation",
+                "Pocket Litter",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                "System Activity Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Remote System Information Discovery",
+        "Technique_ID": "T0888",
+        "Features": {
+            "single": [
+                "Information Manipulation",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "multiple": [
+                "API Monitoring",
+                "Lures",
+                "Network Analysis",
+                "Pocket Litter",
+                "Security Controls"
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Lures",
+                "Pocket Litter",
+                "Security Controls"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "Information Manipulation",
+                "Software Manipulation",
+                "System Activity Monitoring",
+                "Network Analysis"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                "System Activity Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Replication Through Removable Media",
+        "Technique_ID": "T0847",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                "All"
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "System Activity Monitoring",
+                "Malware Detonation"
+            ],
+            "processes": [
+                "System Activity Monitoring",
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Rogue Master",
+        "Technique_ID": "T0848",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                "All"
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis",
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Rootkit",
+        "Technique_ID": "T0851",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "API Monitoring",
+                "Attack Vector Migration",
+                "Baseline",
+                "Introduced Vulnerabilities",
+                "Malware Detonation",
+                "Security Controls",
+                "Software Manipulation\u00a0",
+                "System Activity Monitoring"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Hardware Manipulation"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation",
+                "System Activity Monitoring"
+            ],
+            "processes": [
+                "Malware Detonation",
+                "System Activity Monitoring",
+                "API Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Screen Capture",
+        "Technique_ID": "T0852",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Information Manipulation",
+                "Pocket Litter"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                "API Monitoring",
+                "System Activity Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Scripting",
+        "Technique_ID": "T0853",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation",
+                "Lures",
+                "System Activity Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Service Stop",
+        "Technique_ID": "T0881",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Network Analysis",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "Baseline",
+                "Information Manipulation",
+                "Introduced Vulnerabilities",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Hardware Manipulation"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Information Manipulation"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Spearphishing Attachment",
+        "Technique_ID": "T0865",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Spoof Reporting Message",
+        "Technique_ID": "T0856",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "Network Analysis",
+                "Network Manipulation",
+                "Network Monitoring",
+                "Security Controls"
+            ],
+            "Runtime": [
+                "Information Manipulation",
+                "System Activity Monitoring"
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Information Manipulation"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Standard Application Layer Protocol",
+        "Technique_ID": "T0869",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                "System Activity Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Analysis",
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Supply Chain Compromise",
+        "Technique_ID": "T0862",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "System Firmware",
+        "Technique_ID": "T0857",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "API Monitoring",
+                "Software Manipulation",
+                "System Activity Monitoring"
+            ],
+            "Bootloader": [
+                "Baseline",
+                "Malware Detonation"
+            ],
+            "System": [
+                "Security Controls"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation",
+                "System Activity Monitoring"
+            ],
+            "processes": [
+                "Malware Detonation",
+                "System Activity Monitoring"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Transient Cyber Asset",
+        "Technique_ID": "T0874",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                "All"
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Unauthorized Command Message",
+        "Technique_ID": "T0855",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "API Monitoring",
+                "Isolation"
+            ],
+            "Runtime": [
+                "Baseline",
+                "Information Manipulation",
+                "Introduced Vulnerabilities",
+                "Network Analysis",
+                "Network Monitoring",
+                "Software Manipulation"
+            ],
+            "OS": [
+                "Malware Detonation"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                "Peripheral Management"
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                "Information Manipulation",
+                "Introduced Vulnerabilities"
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                "Network Monitoring",
+                "Network Analysis"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "User Execution",
+        "Technique_ID": "T0863",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                "All"
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                "Malware Detonation"
+            ],
+            "processes": [
+                "Malware Detonation"
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Valid Accounts",
+        "Technique_ID": "T0859",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                "All"
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                null
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                null
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Wireless Compromise",
+        "Technique_ID": "T0860",
+        "Features": {
+            "single": [
+                "All"
+            ],
+            "multiple": [
+                null
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                "All"
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                "Network Monitoring"
+            ],
+            "packet capture": [
+                "Network Monitoring"
+            ]
+        }
+    },
+    {
+        "Technique_Name": "Wireless sniffing",
+        "Technique_ID": "T0887",
+        "Features": {
+            "single": [
+                null
+            ],
+            "multiple": [
+                "All"
+            ],
+            "Protocols": [
+                null
+            ],
+            "Runtime": [
+                null
+            ],
+            "OS": [
+                null
+            ],
+            "Bootloader": [
+                null
+            ],
+            "System": [
+                null
+            ],
+            "real device": [
+                "All"
+            ],
+            "model": [
+                null
+            ],
+            "real plant": [
+                null
+            ],
+            "screen recording": [
+                null
+            ],
+            "file system": [
+                null
+            ],
+            "processes": [
+                null
+            ],
+            "RSSI": [
+                "Network Monitoring"
+            ],
+            "packet capture": [
+                null
+            ]
+        }
+    }
+]
